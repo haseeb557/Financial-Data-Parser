@@ -1,6 +1,6 @@
 # Financial Data Parser
 
-A Python system for parsing, analyzing, and storing structured financial data from Excel files. Built for extensibility, data intelligence, and clean reporting — ideal for banking, ledger management, and financial audits.
+A Python system for parsing, analyzing, and storing structured financial data from Excel files. Built for extensibility, data intelligence, and clean reporting. This is ideal for banking, ledger management, and financial audits.
 
 ---
 
@@ -97,3 +97,4 @@ What It Does:
 # We use pytest to validate all phases of the system:
 pytest tests/
 ```
+
